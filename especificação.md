@@ -4,7 +4,7 @@ Faça um script que calcule o valor de um juros seguindo uma taxa de juros mensa
 O script deve receber três valores do usuário.
 
 1. O valor principal.
-2. A taxa de juros mensal.
+2. A taxa de juros mensal em **%** (ou seja, digitar *3* para uma taxa de *3%*).
 3. O tempo em meses.
 
 Em seguida o script deve calcular quanto é o valor dos juros ao final do período em mêses quando se realiza um empréstimo dado pelo valor principal considerando a taxa de juros inserida.
